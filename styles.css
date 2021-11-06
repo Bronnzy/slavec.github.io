@@ -1,0 +1,52 @@
+body {
+	background-color: #171717;
+}
+h2 {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	color:red;
+}
+h3 {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	color:red;
+}
+p {
+	color:white;
+}
+ul {
+	color:white;
+}
+ol {
+	color:white;
+}
+.image {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+.text {
+	border: solid skyblue;
+	line-height: 1.2;
+  display: inline-block;
+  vertical-align: top;
+  font-size: 15px;
+}
+.mood {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+a {
+	color:lightgreen;
+}
+a:hover {
+	background-color: grey;
+}
+a:onclick {
+	color: darkgreen;
+}
